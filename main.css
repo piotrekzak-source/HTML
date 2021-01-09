@@ -15,7 +15,7 @@ left:0;
 
 #Naglowek h1{
 
-    color:darkcyan;
+    color:blueviolet;
     text-align:center;
     font-size: 52px;
 
@@ -23,22 +23,27 @@ left:0;
 
 #Opis h1{
      font-size: 32px;
+     text-align: center;
+     border: 3px solid green;
 
 }
 
 #Opis h2{
     font-size: 32px;
-
+    text-align: center;
+    border: 3px solid red;
 }
 
 #Opis h3{
     font-size: 32px;
-
+    text-align: center;
+    border: 3px solid blue;
 }
 
 #Opis h4{
     font-size: 32px;
-
+    text-align: center;
+    border: 3px solid yellowgreen;
 }
 
 #Opis p{

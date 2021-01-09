@@ -1,6 +1,47 @@
-h1{
+img.kalifa{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Naglowek{
+
+
+top:0;
+left:0;
+}
+
+
+#Naglowek h1{
+
     color:darkcyan;
-    text-decoration: underline;
-    text-transform: uppercase;
+    text-align:center;
+    font-size: 52px;
+
+}
+
+#Opis h1{
+     font-size: 32px;
+
+}
+
+#Opis h2{
+    font-size: 32px;
+
+}
+
+#Opis h3{
+    font-size: 32px;
+
+}
+
+#Opis h4{
+    font-size: 32px;
+
+}
+
+#Opis p{
+    font-size: 16px;
 
 }

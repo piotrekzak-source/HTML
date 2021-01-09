@@ -1,18 +1,26 @@
+/**********************************
+*Autor Piotr Zak
+*Data 09.01.2021 r.
+*
+***********************************/
+
+/*Styl obrazek*/
+
 img.kalifa{
 
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
+/*Naglowek*/
 #Naglowek{
 
-
-top:0;
-left:0;
+    top:0;
+    left:0;
+    
 }
 
-
+/*Glowny naglowek*/
 #Naglowek h1{
 
     color:blueviolet;
@@ -20,7 +28,7 @@ left:0;
     font-size: 52px;
 
 }
-
+/*Glowny tekst naglowki*/
 #Opis h1{
      font-size: 32px;
      text-align: center;
@@ -45,8 +53,31 @@ left:0;
     text-align: center;
     border: 3px solid yellowgreen;
 }
-
+/*Glowny tekst w paragrafie*/
 #Opis p{
     font-size: 16px;
 
 }
+/*Styl naglowka listy*/
+#Lista h1{
+
+    font-size: 16px
+
+}
+
+.Kontakt h1{
+
+    font-size: 16px
+}
+
+/*Styl stopka*/
+.Stopka{
+
+    background-color: rgba(119, 119, 119, 0.644);
+    padding: 10px;
+    text-align: center;
+    color: white;
+   
+}
+
+

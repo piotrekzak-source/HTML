@@ -69,7 +69,17 @@ img.kalifa{
 
     font-size: 16px
 }
+/*Zmiana koloru linkow*/
+a[href^="http"]{
 
+color:blue;
+
+}
+
+div:hover {
+    background: #e3e3e3;
+  }
+  
 /*Styl stopka*/
 .Stopka{
 

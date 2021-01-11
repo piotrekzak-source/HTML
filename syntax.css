@@ -1,3 +1,11 @@
+body{
+
+background-image:url('../Projekt1/tla/canadian.png');
+
+}
+
+
+
 #Tekst1 h1 + p{
 
 color:crimson;
@@ -7,7 +15,7 @@ color:crimson;
 
 div[id]{
 
-background: gray;
+background:gray;
 
 }
 

@@ -20,6 +20,14 @@ img.kalifa{
     
     
 }
+/*tlo strony*/
+body{
+
+    background-image:url('../Projekt1/tla/double-bubble-outline.png');
+
+}
+
+
 
 /*Glowny naglowek*/
 #Naglowek h1{
@@ -81,7 +89,7 @@ color:blue;
 }
 
 a:hover {
-    background: #e3e3e3;
+    background:white;
   }
   
 /*Styl stopka*/

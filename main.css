@@ -28,6 +28,9 @@ img.kalifa{
     font-size: 52px;
 
 }
+
+
+
 /*Glowny tekst naglowki*/
 #Opis h1{
      font-size: 32px;
@@ -89,5 +92,18 @@ a:hover {
     color: white;
    
 }
+#Linki{
+padding:16px;
+margin:auto;
+background-color:gold;
+border: 3px solid #aaa;
+color:hotpink;
+text-align: center;
 
+
+
+
+
+
+}
 

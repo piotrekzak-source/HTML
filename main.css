@@ -81,11 +81,15 @@ body{
 
     font-size: 16px
 }
-/*Zmiana koloru linkow*/
+/*Stylizacja linkow*/
 a[href^="http"]{
 
-color:blue;
-text-decoration: none;
+    color:blue;
+    margin: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 6px;
 }
 
 a:hover {

@@ -85,11 +85,12 @@ body{
 a[href^="http"]{
 
 color:blue;
-
+text-decoration: none;
 }
 
 a:hover {
     background:white;
+    
   }
   
 /*Styl stopka*/
